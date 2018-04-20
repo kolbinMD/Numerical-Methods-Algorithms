@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # False Position Function Documentation
 ### Description  
 The program `falsePosition.m` uses the False Position method to estimate roots of an input function.  
@@ -16,3 +17,7 @@ The program `falsePosition.m` uses the False Position method to estimate roots o
   * iter- the number of iterations the computation took  
   
 This program was written by Kolbin Dahley in March 2018
+=======
+# Numerical-Methods-Algorithms
+==============================
+>>>>>>> 5d539e118486b4c3bee8136e70e60585075701dd
