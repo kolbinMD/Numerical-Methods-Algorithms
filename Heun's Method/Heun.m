@@ -5,10 +5,10 @@ function [t,y] = Heun(dydt,tspan,y0,h,es,maxit)
 %   
 %   INPUTS: 
 %       dydt- differential equation (input as anonymous function)
-%       tspan- the time window to differentiate across
+%       tspan- the time window to integrate across
 %       y0- the initial condition, assumed at time t=0
 %       h- the step size used to evaluate Heun's method
-%       es- stopping criterion error COME BACK
+%       es- stopping criterion error (defaults to .001)
 %       maxit- maximum number of iterations (defaults to 50)
 %   OUTPUTS:
 %       t-an array containing the t values

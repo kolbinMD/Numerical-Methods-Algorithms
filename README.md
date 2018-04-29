@@ -15,4 +15,9 @@ to find inverse matrices and other useful information.
 ## `Simpson.m`  
 The `Simpson.m` function uses the Simpson's 1/3 Rule to estimate the integral of user given experimental data.
 As long as the data is evenly spaced, this function can estimate the integral of any experimental data. 
-[More information about LU Decomposition](https://en.wikipedia.org/wiki/Simpson%27s_rule)  
+[More information about Simpson's 1/3 Rule](https://en.wikipedia.org/wiki/Simpson%27s_rule)  
+
+## `Heun.m`  
+The `Heun.m` function uses Heun's Method to estimate the solution of a user defined differential equation. It 
+plots this data as an estimated curve. 
+[More information about Heun's Method](https://en.wikipedia.org/wiki/Heun%27s_method)  
